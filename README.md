@@ -1,6 +1,6 @@
 # Quant GAN
 
-Model implementation of Quant-GAN for Deep Generative Models coures at HSE. 
+Model implementation of Quant-GAN for Deep Generative Models course at HSE. 
 Full demonstration available via Jupyter notebook: `quant.ipynb`.
 
 Based on: https://arxiv.org/pdf/1907.06673.pdf
